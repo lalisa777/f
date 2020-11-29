@@ -3,7 +3,7 @@ slug: '/Xiaojie-lin'
 artist: 'Xiaojie Lin'
 title: 'ChAOS'
 description: 'You are not in chaos.'
-thumbnail: 'thumbnail.gif'
+thumbnail: 'https://github.com/lalisa777/f/blob/main/0%20(1).gif'
 ---
 
 In our digital age, we are becoming more and more reliant on reinforcement from technology to tell us how we "should" feel and what we "should" need and care about. Don't know which product to choose? The online shop will give us opinions based on our preference using AI technology. But it is a sloppy and irresponsible way to find answers to questions only from the technology. In fact, only our internal emotions and feelings can truly guide us towards the answers to all the questions. 
